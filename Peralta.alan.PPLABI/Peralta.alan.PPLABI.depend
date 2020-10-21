@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1603269128 source:c:\users\alan\desktop\peralta.alan.pplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"moto.h"
+
+1603265365 c:\users\alan\desktop\peralta.alan.pplabi\fecha.h
+
+1603269002 c:\users\alan\desktop\peralta.alan.pplabi\moto.h
+	"fecha.h"
+
+1603273925 source:c:\users\alan\desktop\peralta.alan.pplabi\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"moto.h"
+	"fecha.h"
+
